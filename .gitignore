@@ -3,6 +3,7 @@
 __pycache__/
 *-checkpoint.ipynb
 .venv
+*.png
 *.egg*
 build/*
 _C.*
